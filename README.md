@@ -1,4 +1,4 @@
-## Hey! I'm Thomas Devol 👋
+# I'm Thomas Devol (Undergraduate 2028)
 Aerospace and Computer Engineering student @ UIUC
 Primary focus on ebedded systems, low-level software, and digital logic design
 
