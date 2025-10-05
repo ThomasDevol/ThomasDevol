@@ -3,7 +3,6 @@ Aerospace and Computer Engineering student @ UIUC
 Primary focus on ebedded systems, low-level software, and digital logic design
 
 # Current Goals
-## Operating System: 
       Currently working on my own Operating System for Aeronautical Research 
 
 
