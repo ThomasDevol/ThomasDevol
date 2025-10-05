@@ -10,5 +10,5 @@ Tools: GDB - KiCad - Arduino IDE - Logisim Evolution - Quartus
 
 
 ## Connect Me
-Email: trdevol2@illinois.edu
+Email: trdevol2@illinois.edu   
 LinkedIn: linkedin.com/in/thomasdevol
