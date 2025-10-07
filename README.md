@@ -13,6 +13,6 @@ Tools: GDB - KiCad - Arduino IDE - Logisim Evolution - Quartus
 
 ## Connect Me
 Email: trdevol2@illinois.edu   
-LinkedIn: linkedin.com/in/thomas-devol-534885278
+LinkedIn: linkedin.com/in/thomas-devol-
 
 
