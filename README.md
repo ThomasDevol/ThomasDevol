@@ -14,7 +14,7 @@ GDB · Git / GitHub · Linux (WSL & EWS) · Make / CMake · VS & Vim Code Dev
 ## Interests!
 Digital Logic · Microarchitecture Design · Embedded Systems · Operating Systems / Low-Level Programming · Circuit Design & Analysis · Data Structures & Algorithms
 
-## Connect with Me
+## Contacts
 School Email: trdevol2@illinois.edu   
 Personal Email: devoltommy42@gmail.com  
 LinkedIn: linkedin.com/in/thomas-devol
