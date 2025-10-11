@@ -1,6 +1,7 @@
 # Hey! I'm Thomas Devol 🌿 
 Primary focus on ebedded systems, low-level software, and digital logic design  
-> Current Designs: Operation System Kernel with Later implimentation of Libraries for Aeronautical Research
+> Current Designs: Operation System Kernel
+> Later implimentation of Libraries for Aeronautical Research
 
 ## Languages
 C · C++ · Java · Python · Rust · NASM x86 · SystemVerilog / Verilog · Bash · SQL
