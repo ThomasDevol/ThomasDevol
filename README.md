@@ -6,7 +6,7 @@ Primary focus on ebedded systems, low-level software, and digital logic design
 C · C++ · Java · Python · Rust · NASM x86 · SystemVerilog / Verilog · Bash · SQL
 
 ## Hardware / Embedded Systems
-KiCad · Arduino IDE · Logisim Evolution · Quartus Prime · ESP32 / AVR Microcontrollers · HDL Simulation 
+KiCad · Xilinx Vivado · GHDL · Logisim Evolution · Quartus Prime · ESP32 / AVR Microcontrollers · Verilator
 
 ## Basic Software
 GDB · Git / GitHub · Linux (WSL & EWS) · Make / CMake · VS & Vim Code Dev 
