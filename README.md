@@ -1,6 +1,6 @@
 # Hey! I'm Thomas Devol 🌿 
 Primary focus on ebedded systems, low-level software, and digital logic design  
-> Current Designs: Operation System Kernel
+> Current Designs: Operation System Kernel  
 > Later implimentation of Libraries for Aeronautical Research
 
 ## Languages
