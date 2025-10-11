@@ -13,7 +13,7 @@ KiCad · Xilinx Vivado · GHDL · Logisim Evolution · Quartus Prime · ESP32 / 
 GDB · Git / GitHub · Linux (WSL & EWS) · Make / CMake · VS & Vim Code Dev 
 
 ## Engineering & Simulation Work
-MATLAB · SOLIDWORKS · Abaqus · ANSYS · Creo · CATIA · NX  
+MATLAB · SOLIDWORKS · Siemens NX · Abaqus · ANSYS · Creo · CATIA · NX  
 
 
 ## Technical Focus
