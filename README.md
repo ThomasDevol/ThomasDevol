@@ -16,7 +16,7 @@ Digital Logic · Microarchitecture Design · Embedded Systems · Operating Syste
 
 ## Connect Me
 School Email: trdevol2@illinois.edu   
-Personal Email: devoltommy42@gmail.com
+Personal Email: devoltommy42@gmail.com  
 LinkedIn: linkedin.com/in/thomas-devol
 
 
